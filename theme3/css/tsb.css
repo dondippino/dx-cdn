@@ -1,0 +1,55 @@
+/*
+.tsb-casing {
+  background-color: #4CD964;
+  border-color: #ECF0F1;
+  border-width: 1px 1px 1px 1px;
+  border-style: solid;
+  width: 1em;
+  border-radius: 10px;
+  position: relative;
+}
+
+.tsb-state {
+  width: 20px;
+  height: 3em;
+  position: absolute;
+}
+
+.tsb-ball {
+  background-color: #fff;
+  width: 1em;
+  height: 3em;
+  border-radius: 1em;
+  position: absolute;
+  vertical-align: central;
+  left: 0px;
+}*/
+
+
+.tsb-casing {
+  background-color: #1d292e;
+  /*background-color: #98a99b;*/
+  /*background-color: #4CD964;*/
+  border-color: #ECF0F1;
+  /*border-width: 1px 1px 1px 1px;*/
+  border-style: solid;
+  height: 1em;
+  border-radius: 10px;
+  position: relative;
+}
+
+.tsb-state {
+  height: 20px;
+  width: 3em;
+  position: absolute;
+}
+
+.tsb-ball {
+  background-color: #fff;
+  height: 1em;
+  width: 3em;
+  border-radius: 1em;
+  position: absolute;
+  vertical-align: central;
+  left: 0px;
+}
